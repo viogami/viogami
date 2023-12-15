@@ -30,12 +30,13 @@ Here are some ideas to get you started:
 ![Rider Badge](https://img.shields.io/badge/Rider-FFA500?logo=Rider&logoColor=fff&style=flat)
 
 <!-- programming tool icon 使用软件 -->
-<img src="https://skillicons.dev/icons?i=c,nodejs,vue,vite,tailwind,go,mysql,pytorch,git,unity,blender,ps,pr,latex,matlab" /><br>
+<img src="https://skillicons.dev/icons?i=vue,vite,tailwind,go,mysql,pytorch,git,unity,blender,ps,pr,latex,matlab,twitter,discord" /><br>
 
 <!-- tech icon 技术栈图标 -->
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
