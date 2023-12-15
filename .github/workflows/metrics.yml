@@ -15,7 +15,7 @@ jobs:
       - name: Profile and detailed game history
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.steam.full.svg
+          filename: metrics.plugin.steam2.svg
           token: NOT_NEEDED
           base: ""
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
