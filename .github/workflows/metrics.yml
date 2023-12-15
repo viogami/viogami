@@ -14,9 +14,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Current configuration doesn't require a GitHub token
-          token: NOT_NEEDED
-
           # Options
           user: viogami
           template: classic
@@ -29,4 +26,4 @@ jobs:
           plugin_steam_playtime_threshold: 3
           plugin_steam_recent_games_limit: 2
           plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: 76561199088814438
+          plugin_steam_user: violet
