@@ -13,24 +13,9 @@
   <tr>
     <td style="text-align:left;">❤ Love coding love bot, gives the 0&1 second life.</td>
   </tr>
-  <tr>
-    <td style="text-align:left;">📢 If you want to find me, you can catch me here <br>👉👉 QQ: 2654613995 or TG: @viogami</td>
-  </tr>
 </table>
 
 <br>
-<!--
-**viogami/viogami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 </div>
 
 ## 💡 Maybe I can do ：
@@ -56,7 +41,6 @@ Here are some ideas to get you started:
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 </div>
 
-## 🤔 What I`m doing know ?
- - [ ] Completion of an undergraduate dissertation
- - [ ] Refine the graph algorithm part of Favani
- - [ ] A new project is being developed: an online fighting game that uses GO as the backend of the game
+## 📢 you can catch me here 
+👉👉 QQ: 2654613995 or [Telegram:@viogami](https://t.me/viogami)
+
