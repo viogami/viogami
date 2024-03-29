@@ -2,8 +2,22 @@
   
 <h1>Hello there!🤗🤗🤗</h1>
 
-| 1. 🎓 I’m a Undergraduate student majoring in information management. <br>2. 🏷️ Know a little about web dev tech stack.Ignorant about AIGC,only understand ACGN. <br>3.❤ I love bot.Let's look forward to the appearance of REAL bot. <br>3. 📢 If you want to find me , you can catch me here👉👉 QQ：2654613995| <a href="https://github.com/viogami"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viogami&layout=compact&hide_border=true" alt="Anurag's github stats" /></a> |
-| :------: | :----: |
+<table>
+  <tr>
+    <td style="text-align:left;">🎓 I’m a Undergraduate student majoring in information management.</td>
+    <td rowspan="4"><a href="https://github.com/viogami"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viogami&layout=compact&hide_border=true" alt="Anurag's github stats" /></a></td>
+  </tr>
+  <tr>
+    <td style="text-align:left;">🏷️ Know a little about web dev tech stack. Ignorant about AIGC, only understand ACGN.</td>
+  </tr>
+  <tr>
+    <td style="text-align:left;">❤ Love coding love bot, gives the 0&1 second life.</td>
+  </tr>
+  <tr>
+    <td style="text-align:left;">📢 If you want to find me, you can catch me here 👉👉 QQ: 2654613995 or TG: @viogami</td>
+  </tr>
+</table>
+
 <br>
 <!--
 **viogami/viogami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,11 +43,10 @@ Here are some ideas to get you started:
 ![Rider Badge](https://img.shields.io/badge/Rider-FFA500?logo=Rider&logoColor=fff&style=flat)
 
 <!-- programming tool icon 使用软件 -->
-<img src="https://skillicons.dev/icons?i=vue,vite,tailwind,go,mysql,pytorch,git,unity,blender,ps,pr,latex,matlab,discord" /><br>
+<img src="https://skillicons.dev/icons?i=go,vue,vite,mysql,pytorch,git,unity,blender,ps,pr,latex,matlab" /><br>
 
 <!-- tech icon 技术栈图标 -->
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
